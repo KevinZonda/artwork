@@ -4,7 +4,7 @@
 
 | Badge | Name |
 | --- | --- |
-| ![](./png/KVAcademic.png) | KevinZonda Academic |
+| ![](./png/KVOperation.png) | KevinZonda Operation |
 | ![](./png/KVResearch.png) | KevinZonda Research |
 | ![](./png/KVEngineer.png) | KevinZonda Engineer |
 
